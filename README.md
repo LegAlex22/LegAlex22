@@ -152,7 +152,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
 ![Perplexity](https://img.shields.io/badge/perplexity-%23000000.svg?style=for-the-badge&logo=perplexity&logoColor=088F8F)
-![Cursor](!https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white)
 ![Deepseek](https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
