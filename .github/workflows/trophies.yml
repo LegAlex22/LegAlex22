@@ -16,12 +16,13 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate GitHub Trophies
-        uses: joshrotenberg/github-profile-trophy@master # O la acción específica para trofeos local
+        uses: ryo-ma/github-profile-trophy@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           username: LegAlex22
-          output_path: profile/trophies.svg
+          OUTPUT_PATH: profile/trophies.svg
           theme: radical
+          no-frame: "false"
           no-bg: "true"
           margin-w: "4"
 
