@@ -207,7 +207,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LegAlex22&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
