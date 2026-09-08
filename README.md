@@ -217,8 +217,9 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.demolab.com/?username=LegAlex22&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
 
 
