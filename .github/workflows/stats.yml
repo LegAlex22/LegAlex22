@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=LegAlex22&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFA500
+          options: username=LegAlex22&show_icons=true&theme=dark&bg_color=151515&include_all_commits=true&count_private=true&icon_color=FFA500
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=LegAlex22&layout=compact&langs_count=6&theme=dark&include_all_commits=true&count_private=true&icon_color=FFA500
+          options: username=LegAlex22&layout=compact&langs_count=6&theme=dark&bg_color=151515&include_all_commits=true&count_private=true&icon_color=FFA500
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,6 +38,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           output-path: profile/streak.svg
           theme: dark
+          background: 151515
           side_card_bg: FFA500
 
       - name: Commit cards
