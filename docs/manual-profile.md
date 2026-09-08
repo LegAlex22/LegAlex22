@@ -32,7 +32,7 @@ Una vez configurado todo el entorno, el flujo para aplicar y actualizar los grá
 
 * **Ejecutar la Action:**
   1. Ve a la pestaña **Actions** en la interfaz web de tu repositorio de GitHub.
-  2. Selecciona el workflow correspondiente en la barra lateral (ej. *Update README cards*).
+  2. Selecciona el workflow correspondiente en la barra lateral (ej. *Update Stats* / *Update Trophies*).
   3. Haz clic arriba a la derecha en **Run workflow** y confirma la ejecución. (Si no lo ejecutas manualmente, se ejecuta igual cada medianoche automáticamente) 
 * **Verificación de archivos generados:**
   1. Cuando el proceso termine con éxito (marcado en verde), la propia acción creará automáticamente una carpeta llamada `profile/` en tu repositorio.
