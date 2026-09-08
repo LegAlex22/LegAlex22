@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate GitHub Trophies
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: LegAlex22
