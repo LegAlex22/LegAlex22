@@ -23,14 +23,6 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: wakatime # O el equivalente de racha si lo soporta, o mantenemos la de demodab abajo
-          options: username=LegAlex22&theme=dark
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
