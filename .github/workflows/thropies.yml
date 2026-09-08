@@ -1,0 +1,34 @@
+name: Update Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta una vez al día a medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Trophies
+        uses: joshrotenberg/github-profile-trophy@master # O la acción específica para trofeos local
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: LegAlex22
+          output_path: profile/trophies.svg
+          theme: radical
+          no-bg: "true"
+          margin-w: "4"
+
+      - name: Commit trophies card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophies.svg
+          git commit -m "Update GitHub Trophies card" || exit 0
+          git push
