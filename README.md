@@ -234,3 +234,13 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 </p>
 
 ---
+
+<h3 style="border-bottom: none; padding-bottom: 0;">🐍 GitHub Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+    <img src="./profile/github-snake.svg" alt="GitHub Snake Animation">
+  </picture>
+</p>
+
