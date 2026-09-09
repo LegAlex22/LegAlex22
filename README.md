@@ -37,6 +37,9 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ## 🌐 Socials:
 
 ### Connect with me:
+## 🌐 Socials:
+
+### Connect with me:
 &nbsp;&nbsp;
 [![youtube](assets/social-icons/youtube-light.svg)](https://youtube.com/@legalex22#gh-light-mode-only)
 [![youtube](assets/social-icons/youtube-dark.svg)](https://youtube.com/@legalex22#gh-dark-mode-only)
