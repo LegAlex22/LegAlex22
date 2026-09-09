@@ -217,10 +217,20 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
+<h3 style="border-bottom: none; padding-bottom: 0;">🎧 Currently Listening to</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jeffreyca16&theme=dark&count=3">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jeffreyca16&theme=light&count=3">
+</picture>
+
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
 
-
+---
