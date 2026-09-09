@@ -246,12 +246,3 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/legalex22?v=1788991572989"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
-
-
