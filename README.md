@@ -243,4 +243,3 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
     <img src="./profile/github-snake.svg" alt="GitHub Snake Animation">
   </picture>
 </p>
-
