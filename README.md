@@ -1,10 +1,5 @@
 <img src="https://i.imgur.com/Vbj9aBY.png">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/sky-night.svg" />
-    <img src="./profile/sky.svg" width="900" alt="Living Sky Banner" />
-  </picture>
-</div>
+
 
 
 [![Twitch Status](https://img.shields.io/twitch/status/legalex22?style=social)](https://www.twitch.tv/legalex22)
