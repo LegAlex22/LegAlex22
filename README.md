@@ -243,3 +243,15 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
     <img src="./profile/github-snake.svg" alt="GitHub Snake Animation">
   </picture>
 </p>
+
+---
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/legalex22?v=1788991572989"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
+
+
