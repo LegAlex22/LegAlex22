@@ -10,7 +10,7 @@
       </feMerge>
     </filter>
   </defs>
-  <text x="-12" y="17" text-anchor="start" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff" filter="url(#glow)">
+  <text x="0" y="17" text-anchor="start" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff" filter="url(#glow)">
     About Me
   </text>
 </svg>
