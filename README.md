@@ -8,9 +8,12 @@
 <a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
 
+<div align="center">
+  <img src="./assets/glow-title.svg?v=2" alt="About Me" style="vertical-align: middle;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" style="vertical-align: middle;">
+</div>
 
-<img src="./assets/glow-title.svg?v=2" alt="About Me"> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
+<h1 align="center"><b>Hi , I'm Valentina Werle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
 
