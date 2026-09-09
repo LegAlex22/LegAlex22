@@ -32,12 +32,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: denvercoder1/github-readme-streak-stats@main
         with:
-          card: streak
-          options: username=LegAlex22&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FFA500&ring=FFA500&currStreakLabel=FFA500&background=151515
-          path: profile/streak.svg
+          username: LegAlex22
           token: ${{ secrets.GITHUB_TOKEN }}
+          path: profile/streak.svg
+          repository: LegAlex22
+          options: theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FFA500&ring=FFA500&currStreakLabel=FFA500&background=151515
 
       - name: Commit cards
         run: |
