@@ -42,8 +42,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)
 
 ### Connect with me:
-[![website](./assets/social-icons/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./assets/social-icons/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![youtube](./assets/social-icons/youtube-light.svg)](https://youtube.com/@legalex_la#gh-light-mode-only)
 [![youtube](./assets/social-icons/youtube-dark.svg)](https://youtube.com/@legalex_la#gh-dark-mode-only)
