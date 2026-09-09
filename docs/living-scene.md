@@ -197,3 +197,5 @@ non-commercial use and delightfully key-free.
 ## License
 
 MIT — see [LICENSE](LICENSE). Take the cat.
+
+Resource: https://github.com/yuki4266/living-scene/tree/main
