@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="./assets/glow-title.svg?v=2" alt="Hola, soy Alejandro Palacios Vidales / LegAlex">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</div>
-
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
 [![Twitch Status](https://img.shields.io/twitch/status/legalex22?style=social)](https://www.twitch.tv/legalex22)
@@ -12,6 +7,11 @@
 
 <a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
+
+<div align="center">
+  <img src="./assets/glow-title.svg?v=2" alt="About Me">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</div>
 
 # 💫 About Me:
 
