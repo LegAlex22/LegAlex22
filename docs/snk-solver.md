@@ -29,3 +29,6 @@ Contains the algorithm to compute the best route given a grid and a starting pos
   - iterate
 
 - go back to the starting point
+
+
+Resource: https://github.com/Platane/snk/blob/main/packages/solver/README.md
