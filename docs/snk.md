@@ -126,3 +126,5 @@ npx generate-snake-animation@3 --forgejo_user codeberg.org/JasterV --output snak
 This project does not accept pull request.
 
 Reporting or fixing issues is appreciated, but change in the API or implementation should be discussed in issue first and is likely not going be greenlighted.
+
+Resource: https://github.com/Platane/snk/blob/main/README.md
