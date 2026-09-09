@@ -8,9 +8,9 @@
 <a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
 
-<div align="center">
-  <img src="./assets/glow-title.svg?v=2" alt="About Me"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
-</div>
+
+<img src="./assets/glow-title.svg?v=2" alt="About Me"> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
 
 # 💫 About Me:
 
