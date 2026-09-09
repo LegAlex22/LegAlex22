@@ -10,8 +10,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/LegAlex22/LegAlex22.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LegAlex22?tab=repositories)
 [![GitHub watchers](https://img.shields.io/github/watchers/LegAlex22/LegAlex22.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/LegAlex22?tab=repositories)
 
-
-<p align="left"> <a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
 
@@ -30,46 +28,27 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 - 🎮 Fuera del ámbito tech, trabajo como profesor particular, entreno en el gimnasio, juego a videojuegos, escucho música y colecciono cosillas frikis de Marvel, cine y series.
 - ​📱​ A más a más, creo contenido sobre programación y tecnología en mis redes sociales, no dudes en visitar mi perfil!
 
-📫📩​ **Contacto:** [alepalacioscontacto@gmail.com](mailto:alepalacioscontacto@gmail.com)
+📩​ **Contacto:** [alex.bellon2005@gmail.com](mailto:alex.bellon2005@gmail.com)
 
 ---
 
 ## 🌐 Socials:
-
-### Connect with me:
-## 🌐 Socials:
-
 ### Connect with me:
 &nbsp;&nbsp;
-[![youtube](assets/social-icons/youtube-light.svg)](https://youtube.com/@legalex22#gh-light-mode-only)
-[![youtube](assets/social-icons/youtube-dark.svg)](https://youtube.com/@legalex22#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![twitter](assets/social-icons/X-light.svg)](https://twitter.com/legalex22#gh-light-mode-only)
-[![twitter](assets/social-icons/X-dark.svg)](https://twitter.com/legalex22#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](assets/social-icons/linkedin-light.svg)](https://linkedin.com/in/legalex22#gh-light-mode-only)
-[![linkedin](assets/social-icons/linkedin-dark.svg)](https://linkedin.com/in/legalex22#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](assets/social-icons/instagram-light.svg)](https://instagram.com/legalex22#gh-light-mode-only)
-[![instagram](assets/social-icons/instagram-dark.svg)](https://instagram.com/legalex22#gh-dark-mode-only)
+[![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
+[![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![github](assets/social-icons/github-light.svg)](https://github.com/legalex22#gh-light-mode-only)
 [![github](assets/social-icons/github-dark.svg)](https://github.com/legalex22#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitch](assets/social-icons/twitch-light.svg)](https://twitch.tv/legalex22#gh-light-mode-only)
-[![twitch](assets/social-icons/twitch-dark.svg)](https://twitch.tv/legalex22#gh-dark-mode-only)
+[![instagram](assets/social-icons/instagram-light.svg)](https://instagram.com/legalex22#gh-light-mode-only)
+[![instagram](assets/social-icons/instagram-dark.svg)](https://instagram.com/legalex22#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![tiktok](assets/social-icons/tiktok-light.svg)](https://tiktok.com/@legalex22#gh-light-mode-only)
 [![tiktok](assets/social-icons/tiktok-dark.svg)](https://tiktok.com/@legalex22#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linktree](assets/social-icons/linktree-light.svg)](https://linktr.ee/legalex22#gh-light-mode-only)
-[![linktree](assets/social-icons/linktree-dark.svg)](https://linktr.ee/legalex22#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![gmail](assets/social-icons/gmail-light.svg)](mailto:legalex22@gmail.com#gh-light-mode-only)
-[![gmail](assets/social-icons/gmail-dark.svg)](mailto:legalex22@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![globe](assets/social-icons/globe-light.svg)](https://legalex22.com#gh-light-mode-only)
-[![globe](assets/social-icons/globe-dark.svg)](https://legalex22.com#gh-dark-mode-only)
+[![gmail](assets/social-icons/gmail-light.svg)](mailto:alex.bellon2005@gmail.com#gh-light-mode-only)
+[![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
 
 ---
 
