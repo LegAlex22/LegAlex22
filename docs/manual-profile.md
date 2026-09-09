@@ -42,3 +42,18 @@ Una vez configurado todo el entorno, el flujo para aplicar y actualizar los grá
 * **Solución a problemas de visualización o caché:**
   1. Si tras actualizar los colores o ejecutar el workflow notas que el perfil sigue mostrando los diseños antiguos, entra de manera individual a los archivos dentro de la carpeta `profile/` en la pestaña de código para confirmar que se han actualizado.
   2. En tu perfil principal osea al estar dentro de `stats.svg` u otro, presiona **Ctrl + F5** (o limpia la caché del navegador) para forzar la recarga visual. Si persiste, vuelve a lanzar el *Run workflow* previo y repite el refresco. Todo quedará sincronizado correctamente.
+ 
+> [!NOTE]
+Esto es una nota especial
+
+> [!TIP]
+Esto es una consejo
+
+> [!IMPORTANT]
+Esto es una nota importante
+
+> [!WARNING]
+Esto es una nota de aviso
+
+> [!CAUTION]
+Esto es una nota de precaución
