@@ -19,7 +19,6 @@ jobs:
           lat: "41.6176"
           lon: "0.6200"
           tz: "Europe/Madrid"
-          path: ".github/workflows/scene-state" # <-- Aquí le indicamos dónde guardarlo
 
       - name: Move assets to profile folder
         run: |
@@ -29,7 +28,5 @@ jobs:
       - name: Commit and push generated files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update living scene assets and state"
-          file_pattern: |
-            profile/*.svg
-            .github/workflows/scene-state
+          commit_message: "Update living scene assets in profile folder"
+          file_pattern: profile/*.svg
