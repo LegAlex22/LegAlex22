@@ -8,7 +8,9 @@
 <a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
 
-<img src="./assets/glow-title.svg?v=2" alt="About Me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
+<img src="./assets/glow-title.svg?v=2" alt="About Me">&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
+
+---
 
 Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
 
@@ -24,10 +26,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 📩​ **Contacto:** [alex.bellon2005@gmail.com](mailto:alex.bellon2005@gmail.com)
 
----
-
-### 🌐 Let's Connect
-&nbsp;&nbsp;
+## 🌐 Let's Connect
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
 [![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
 &nbsp;&nbsp;
