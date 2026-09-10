@@ -191,7 +191,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 
 ---
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+# <img src="./assets/AnalizeStats.gif" width="35" alt="Analize Stats" /><img src="./assets/glow-github-stats.svg?v=2" alt="Github Stats">&nbsp;
 <br>
 
 <p align="center">
