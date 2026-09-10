@@ -1,10 +1,5 @@
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
-[![Twitch Status](https://img.shields.io/twitch/status/legalex22?style=social)](https://www.twitch.tv/legalex22)
-[![GitHub followers](https://img.shields.io/github/followers/LegAlex22?style=social)](https://github.com/LegAlex22)
-[![GitHub stars](https://img.shields.io/github/stars/LegAlex22/LegAlex22.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LegAlex22?tab=repositories)
-[![GitHub watchers](https://img.shields.io/github/watchers/LegAlex22/LegAlex22.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/LegAlex22?tab=repositories)
-
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
 [![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -20,13 +15,11 @@
 [![gmail](assets/social-icons/gmail-light.svg)](mailto:alex.bellon2005@gmail.com#gh-light-mode-only)
 [![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
 
-<a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
-
 <img src="./assets/glow-title.svg?v=2" alt="About Me">&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
 --
+
+
 Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño y estrategia, buscando siempre aprender y construir soluciones prácticas desde la experiencia real.
 
 - 🌱 Actualmente estoy aprendiendo: 
@@ -38,11 +31,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 - ​📱​ A más a más, creo contenido sobre programación y tecnología en mis redes sociales, no dudes en visitar mi perfil!
 
 📩​ **Contacto:** [alex.bellon2005@gmail.com](mailto:alex.bellon2005@gmail.com)
-
----
-
-## 🌐 Let's Connect
-
 
 ---
 
@@ -254,3 +242,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
     <img src="./profile/garden-footer.svg" width="900" alt="Garden Footer with Cat" />
   </picture>
 </div>
+
+
+<img src="./assets/divider-line.gif"  alt="Divider Line" />
+<p <a href="https://www.twitch.tv/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/legalex22?logo=twitch&style=for-the-badge&color=000000&labelColor=1c1917" alt="Twitch Status" /></a> <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>
