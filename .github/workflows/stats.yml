@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=LegAlex22&show_icons=true&theme=dark&bg_color=151515&include_all_commits=true&count_private=true&icon_color=FFA500&border_radius=10&hide_rank=true&disable_animations=true&hide=stars,prs
+          options: username=LegAlex22&show_icons=true&theme=dark&bg_color=151515&include_all_commits=true&count_private=true&icon_color=FFA500&border_radius=10&hide_rank=true&disable_animations=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
