@@ -1,5 +1,9 @@
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
+
+
+
+
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
 [![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -123,6 +127,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ![Sweatcoin](https://img.shields.io/badge/Sweatcoin-%231C1C1C.svg?style=for-the-badge&logo=sweatcoin&logoColor=white)
 
 ### 🚀 Entornos de Desarrollo (IDEs)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -242,13 +247,19 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 </p>
 
 	
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <img src="./assets/divider-line.gif"  alt="Divider Line" />
-<p <a href="https://www.twitch.tv/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/legalex22?logo=twitch&style=for-the-badge&color=000000&labelColor=1c1917" alt="Twitch Status" /></a> <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>
+<p <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>
 
 
-Credit: [Alejandro Palacios Vidales](https://github.com/LegAlex22/)
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp; **Credit:** [Alejandro Palacios Vidales](https://github.com/LegAlex22/)
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 Last Edited on: 10/09/2026
