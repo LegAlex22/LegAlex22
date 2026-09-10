@@ -116,15 +116,12 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 <br>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="430" height="195" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="430" height="195" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="870" />
 </p>
 
 ---
