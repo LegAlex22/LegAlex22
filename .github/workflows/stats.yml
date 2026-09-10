@@ -38,7 +38,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: profile/streak.svg
           repository: LegAlex22
-          options: theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FFA500&ring=FFA500&currStreakLabel=FFA500&background=151515
+          options: theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FFA500&ring=FFA500&currStreakLabel=FFA500&background=151515&card_height=220
 
       - name: Commit cards
         run: |
