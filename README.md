@@ -15,7 +15,7 @@
 [![gmail](assets/social-icons/gmail-light.svg)](mailto:alex.bellon2005@gmail.com#gh-light-mode-only)
 [![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
 
-<img src="./assets/glow-title.svg?v=2" alt="About Me">&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
+<img src="./assets/glow-about-me.svg?v=2" alt="About Me">&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
 --
 
 
