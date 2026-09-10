@@ -62,25 +62,35 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ### ⚙️ Backend, Database & Cloud
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### 🛠️ Tools, DevOps & Hardware
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity Hub](https://img.shields.io/badge/Unity%20Hub-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
@@ -90,138 +100,69 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Manychat](https://img.shields.io/badge/Manychat-%23F6851B.svg?style=for-the-badge&logo=Manychat&logoColor=white)
 
 ### 🎨 Design, Media & Content
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-%23303030.svg?style=for-the-badge&logo=obs-studio&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)
-
-
----
----
----
-
-
-### 🖥️ Frontend & Diseño
-
-<!-- style=flat-square  / style=for-the-badge& -->
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Krita](https://img.shields.io/badge/Krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+
+---
+---
+---
+
+
+
+
+
+
+
+
+
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-
 ### ⚙️ Backend, Bases de Datos & Cloud
 
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-
 ### 🛠️ Herramientas, Hardware & DevOps
-
-![Manychat](https://img.shields.io/badge/Manychat-%23F6851B.svg?style=for-the-badge&logo=Manychat&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=google-meet&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=black)
-![MetaMask](https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) 
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-%23303030.svg?style=for-the-badge&logo=obs-studio&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unity Hub](https://img.shields.io/badge/Unity%20Hub-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Sweatcoin](https://img.shields.io/badge/Sweatcoin-%231C1C1C.svg?style=for-the-badge&logo=sweatcoin&logoColor=white)
 
+![MetaMask](https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+
+![Sweatcoin](https://img.shields.io/badge/Sweatcoin-%231C1C1C.svg?style=for-the-badge&logo=sweatcoin&logoColor=white)
 ### 🚀 Entornos de Desarrollo (IDEs)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-
-### 📝 Editores de Código
-
 ### 🐧 Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-### 🤖 Artificial Intelligence and Bots
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
-![Perplexity](https://img.shields.io/badge/perplexity-%23000000.svg?style=for-the-badge&logo=perplexity&logoColor=088F8F)
-![Deepseek](https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
-
-### 🔗 Blockchain
-![Bitcoin](https://img.shields.io/badge/bitcoin-%232F3134.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
-![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
-
-### 🔬 CI
-
-### 💲 Cryptocurrency
-![Binance](https://img.shields.io/badge/Binance-%23FCD535.svg?style=for-the-badge&logo=binance&logoColor=black)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-%23000.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
-
-
-
 ### 🖥️ DE/WM
 ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white)
-
-### 🎓 Education
-![Codecademy](https://img.shields.io/badge/Codecademy-%23FFF0E5.svg?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Datacamp](https://img.shields.io/badge/Datacamp-%2305192D.svg?style=for-the-badge&logo=datacamp&logoColor=03E860)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Udacity](https://img.shields.io/badge/Udacity-%2302B3E4.svg?style=for-the-badge&logo=udacity&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
-![W3 Schools](https://img.shields.io/badge/W3%20Schools-%2304AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white) 
-
-![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&loago=virtualbox&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 ### 🌐 Networking
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![TP-Link](https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white)
+
 ###
 
 
