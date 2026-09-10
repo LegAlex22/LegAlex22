@@ -1,9 +1,5 @@
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
-
-
-
-
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
 [![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -22,7 +18,6 @@
 <img src="./assets/glow-about-me.svg?v=2" alt="About Me">&nbsp;<img src="./assets/WavingHand.gif" width="35" alt="Waving Hand" />
 --
 
-
 Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
 Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño y estrategia, buscando siempre aprender y construir soluciones prácticas desde la experiencia real.
 
@@ -39,7 +34,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ---
 
 # <img src="./assets/ScriptCoding.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-skills.svg?v=2" alt="Skill">&nbsp;
-<br>
 
 ### ⚡ Core & Languages
 ![Java](https://img.shields.io/badge/java-%23ED1D24.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -135,7 +129,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
----
 
 ## 🏆 GitHub Trophies
 
