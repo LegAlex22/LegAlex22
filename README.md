@@ -1,35 +1,10 @@
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
-
-
 [![Twitch Status](https://img.shields.io/twitch/status/legalex22?style=social)](https://www.twitch.tv/legalex22)
 [![GitHub followers](https://img.shields.io/github/followers/LegAlex22?style=social)](https://github.com/LegAlex22)
 [![GitHub stars](https://img.shields.io/github/stars/LegAlex22/LegAlex22.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LegAlex22?tab=repositories)
 [![GitHub watchers](https://img.shields.io/github/watchers/LegAlex22/LegAlex22.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/LegAlex22?tab=repositories)
 
-<a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
-
-<img src="./assets/glow-title.svg?v=2" alt="About Me">&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
-
----
-
-
-Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
-
-Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño y estrategia, buscando siempre aprender y construir soluciones prácticas desde la experiencia real.
-
-- 🌱 Actualmente estoy aprendiendo: 
-  - Nuevas tecnologías en desarrollo Front-End/Back-End
-  - Automatización de procesos avanzados.
-- 🤝 Tengo muchas ganas de colaborar en proyectos de código abierto y de digitalización.
-- 💬 Pregúntame sobre desarrollo, automatización, estrategia digital o creación de contenido, será un gusto poder ayudarte.
-- 🎮 Fuera del ámbito tech, trabajo como profesor particular, entreno en el gimnasio, juego a videojuegos, escucho música y colecciono cosillas frikis de Marvel, cine y series.
-- ​📱​ A más a más, creo contenido sobre programación y tecnología en mis redes sociales, no dudes en visitar mi perfil!
-
-📩​ **Contacto:** [alex.bellon2005@gmail.com](mailto:alex.bellon2005@gmail.com)
-
-## 🌐 Let's Connect
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
 [![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -45,9 +20,41 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 [![gmail](assets/social-icons/gmail-light.svg)](mailto:alex.bellon2005@gmail.com#gh-light-mode-only)
 [![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
 
+<a href="https://www.github.com/legalex22" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
+
+<img src="./assets/glow-title.svg?v=2" alt="About Me">&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand">
+--
+Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño y estrategia, buscando siempre aprender y construir soluciones prácticas desde la experiencia real.
+
+- 🌱 Actualmente estoy aprendiendo: 
+  - Nuevas tecnologías en desarrollo Front-End/Back-End
+  - Automatización de procesos avanzados.
+- 🤝 Tengo muchas ganas de colaborar en proyectos de código abierto y de digitalización.
+- 💬 Pregúntame sobre desarrollo, automatización, estrategia digital o creación de contenido, será un gusto poder ayudarte.
+- 🎮 Fuera del ámbito tech, trabajo como profesor particular, entreno en el gimnasio, juego a videojuegos, escucho música y colecciono cosillas frikis de Marvel, cine y series.
+- ​📱​ A más a más, creo contenido sobre programación y tecnología en mis redes sociales, no dudes en visitar mi perfil!
+
+📩​ **Contacto:** [alex.bellon2005@gmail.com](mailto:alex.bellon2005@gmail.com)
+
 ---
 
-# 💻 Tech Stack:
+## 🌐 Let's Connect
+
+
+---
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+	
+
+
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills/Tech Stack:</b>
+<br>
 
 ### 🖥️ Frontend & Diseño
 
@@ -203,8 +210,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 
 ---
-
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
