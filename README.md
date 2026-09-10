@@ -247,3 +247,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 <img src="./assets/divider-line.gif"  alt="Divider Line" />
 <p <a href="https://www.twitch.tv/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/legalex22?logo=twitch&style=for-the-badge&color=000000&labelColor=1c1917" alt="Twitch Status" /></a> <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>
+
+
+Credit: [Alejandro Palacios Vidales](https://github.com/LegAlex22/)
+
+Last Edited on: 10/09/2026
