@@ -29,7 +29,11 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 - 🎮 Fuera del ámbito tech, trabajo como profesor particular, entreno en el gimnasio, juego a videojuegos, escucho música y colecciono cosillas frikis de Marvel, cine y series.
 - ​📱​ A más a más, creo contenido sobre programación y tecnología en mis redes sociales, no dudes en visitar mi perfil!
 
-📩​ **Contacto:** [alex.bellon2005@gmail.com](mailto:alex.bellon2005@gmail.com)
+📩​ **Contacto:** [alex.bellon2005@gmail.com](mailto:alex.bellon2005@gmail.com)&nbsp;
+<img src="./assets/hyperkitty.gif" width="26" alt="Cat 1"/>
+<img src="./assets/cat-roll.gif" width="26" alt="Cat 2" />
+
+
 
 ---
 
@@ -124,14 +128,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-# <img src="./assets/Trophy.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-github-trophies.svg?v=2" alt="GitHub Trophies">
-
-<p align="center">
-  <img src="./profile/trophies.svg" alt="GitHub Trophies" />
-</p>
-
----
-
 # <img src="./assets/Game.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-contribution-graph.svg?v=2" alt="Contribution Graph">
 
 <p align="center">
@@ -144,9 +140,15 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
+# <img src="./assets/Trophy.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-github-trophies.svg?v=2" alt="GitHub Trophies">
 
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
+<p align="center">
+  <img src="./profile/trophies.svg" alt="GitHub Trophies" />
+</p>
+
+---
+
+ 
 
 <!--src="./assets/footer-line.svg"-->
 <p align="center">
