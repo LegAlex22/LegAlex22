@@ -125,7 +125,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ---
 
 
-## 🏆 GitHub Trophies
+# 🏆 <img src="./assets/glow-github-trophies.svg?v=2" alt="GitHub Trophies">
 
 <p align="center">
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
@@ -133,12 +133,13 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<h3 style="border-bottom: none; padding-bottom: 0;">🐍 GitHub Contribution Snake</h3>
+# 🕹️ <img src="./assets/glow-my-contribution-graph.svg?v=2" alt="My Contribution Graph">
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-    <img src="./profile/github-snake.svg" alt="GitHub Snake Animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegAlex22/LegAlex22/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegAlex22/LegAlex22/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/LegAlex22/LegAlex22/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
