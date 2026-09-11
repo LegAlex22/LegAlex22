@@ -1,4 +1,4 @@
-<svg width="190" height="28" viewBox="0 0 190 28" xmlns="http://www.w3.org/2000/svg">
+<svg width="130" height="28" viewBox="0 0 190 28" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Filtro ajustado para brillo oscuro (negro) -->
     <filter id="glow-dark" x="-30%" y="-30%" width="160%" height="160%">
