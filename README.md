@@ -124,7 +124,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-
 # 🏆 <img src="./assets/glow-github-trophies.svg?v=2" alt="GitHub Trophies">
 
 <p align="center">
