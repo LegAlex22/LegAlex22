@@ -1,5 +1,3 @@
-<p <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>
-
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
@@ -147,27 +145,12 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ---
 
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-	
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-<img src="./assets/divider-line.gif"  alt="Divider Line" />
-
-
-
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
-
 
 <!--src="./assets/footer-line.svg"-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer Waving Line" width="100%" />
 </p>
+
+<!-- <p <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>  -->
