@@ -131,6 +131,10 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="./profile/trophies.svg" alt="GitHub Trophies" style="filter: drop-shadow(0px 0px 12px rgba(255, 165, 0, 0.45));" />
+</p>
+
 ---
 
 <h3 style="border-bottom: none; padding-bottom: 0;">🐍 GitHub Contribution Snake</h3>
