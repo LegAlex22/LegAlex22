@@ -1,6 +1,6 @@
-<svg width="115" height="28" viewBox="0 0 115 28" xmlns="http://www.w3.org/2000/svg">
+<svg width="130" height="28" viewBox="0 0 130 28" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="0" result="blur">
         <animate attributeName="stdDeviation" values="0;4;0" dur="3s" repeatCount="indefinite"/>
       </feGaussianBlur>
