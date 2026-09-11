@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: LegAlex22
           OUTPUT_PATH: profile/trophies.svg
-          theme: radical
+          theme: tokyonight
           no-frame: "false"
           no-bg: "true"
           margin-w: "4"
