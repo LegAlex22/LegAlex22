@@ -19,7 +19,10 @@
 [![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
 
 
-<img src="./assets/glow-about-me.svg?v=2" alt="About Me">&nbsp;<img src="./assets/WavingHand.gif" width="35" alt="Waving Hand" />
+
+<img src="./assets/glow-about-me-light.svg#gh-light-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-light.gif#gh-light-mode-only" width="35" alt="Waving Hand" />
+<img src="./assets/glow-about-me-dark.svg#gh-dark-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-dark.gif#gh-dark-mode-only" width="35" alt="Waving Hand" />
+
 --
 
 Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
