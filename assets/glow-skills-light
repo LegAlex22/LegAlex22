@@ -1,0 +1,21 @@
+<svg width="150" height="28" viewBox="0 0 150 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Filtro ajustado para brillo oscuro (negro) -->
+    <filter id="glow-dark" x="-30%" y="-30%" width="160%" height="160%">
+      <!-- El desenfoque ahora creará una sombra/halo oscuro -->
+      <feGaussianBlur stdDeviation="0" result="blur">
+        <animate attributeName="stdDeviation" values="0;4;0" dur="3s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <!-- Capa base desenfocada y oscura -->
+        <feMergeNode in="blur"/>
+        <!-- Gráfico original encima -->
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Texto en negro -->
+  <text x="0" y="22" text-anchor="start" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#000000" filter="url(#glow-dark)">
+    Skills
+  </text>
+</svg>
