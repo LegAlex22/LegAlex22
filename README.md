@@ -119,7 +119,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ![Sketch Up](https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ---
-
 <img src="./assets/AnalizeStats-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-light.svg#gh-light-mode-only" alt="Github Stats" width="130">
 <img src="./assets/AnalizeStats-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-dark.svg#gh-dark-mode-only" alt="Github Stats" width="130">
 
