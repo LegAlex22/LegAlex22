@@ -146,10 +146,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
 
----
-
- 
-
 <!--src="./assets/footer-line.svg"-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer Waving Line" width="100%" />
