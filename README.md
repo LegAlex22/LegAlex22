@@ -132,7 +132,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-# <img src="./assets/Game.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-my-contribution-graph.svg?v=2" alt="My Contribution Graph">
+# <img src="./assets/Game.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-contribution-graph.svg?v=2" alt="Contribution Graph">
 
 <p align="center">
   <picture>
