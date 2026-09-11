@@ -1,5 +1,9 @@
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
+<a href="https://www.linkedin.com/in/alejandro-palacios-vidales/" target="_blank"><object data="assets/linkedin-hover.svg" type="image/svg+xml" width="32" height="32" style="pointer-events: none;"></object></a>
+
+---
+
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
 [![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -113,7 +117,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ---
 
 # <img src="./assets/AnalizeStats.gif" width="35" alt="Analize Stats" /><img src="./assets/glow-github-stats.svg?v=2" alt="Github Stats">
-<br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
   <img src="./profile/stats.svg" alt="GitHub Stats" width="430" />
