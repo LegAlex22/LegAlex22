@@ -23,8 +23,6 @@
 <img src="./assets/glow-about-me-light.svg#gh-light-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-light.gif#gh-light-mode-only" width="35" alt="Waving Hand" />
 <img src="./assets/glow-about-me-dark.svg#gh-dark-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-dark.gif#gh-dark-mode-only" width="35" alt="Waving Hand" />
 
---
-
 Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
 Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño y estrategia, buscando siempre aprender y construir soluciones prácticas desde la experiencia real.
 
@@ -42,11 +40,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-# <img src="./assets/ScriptCoding.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-skills.svg?v=2" alt="Skill">&nbsp;
 <img src="./assets/ScriptCoding-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-light.svg#gh-light-mode-only" alt="Skills" width="130">
 <img src="./assets/ScriptCoding-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-dark.svg#gh-dark-mode-only" alt="Skills" width="130">
-
-
 
 ### ⚡ Core & Languages
 ![Java](https://img.shields.io/badge/java-%23ED1D24.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -125,7 +120,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-# <img src="./assets/AnalizeStats.gif" width="35" alt="Analize Stats" /><img src="./assets/glow-github-stats.svg?v=2" alt="Github Stats">
+<img src="./assets/AnalizeStats-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-light.svg#gh-light-mode-only" alt="Github Stats" width="130">
+<img src="./assets/AnalizeStats-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-dark.svg#gh-dark-mode-only" alt="Github Stats" width="130">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
   <img src="./profile/stats.svg" alt="GitHub Stats" width="420" />
