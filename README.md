@@ -115,11 +115,11 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 # <img src="./assets/AnalizeStats.gif" width="35" alt="Analize Stats" /><img src="./assets/glow-github-stats.svg?v=2" alt="Github Stats">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="430" />
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="430" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="420" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="420" />
 </div>
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="870" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="845" />
 </p>
 
 ---
