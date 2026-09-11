@@ -40,8 +40,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<img src="./assets/ScriptCoding-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-light.svg#gh-light-mode-only" alt="Skills" width="130">
-<img src="./assets/ScriptCoding-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-dark.svg#gh-dark-mode-only" alt="Skills" width="130">
+<img src="./assets/ScriptCoding-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-light.svg#gh-light-mode-only" alt="Skills" height="28" style="vertical-align: middle;">
+<img src="./assets/ScriptCoding-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-dark.svg#gh-dark-mode-only" alt="Skills" height="28" style="vertical-align: middle;">
 
 ### ⚡ Core & Languages
 ![Java](https://img.shields.io/badge/java-%23ED1D24.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -119,8 +119,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 ![Sketch Up](https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ---
-<img src="./assets/AnalizeStats-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-light.svg#gh-light-mode-only" alt="Github Stats" width="130">
-<img src="./assets/AnalizeStats-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-dark.svg#gh-dark-mode-only" alt="Github Stats" width="130">
+<img src="./assets/AnalizeStats-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-light.svg#gh-light-mode-only" alt="Github Stats" height="28" style="vertical-align: middle;">
+<img src="./assets/AnalizeStats-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-github-stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="28" style="vertical-align: middle;">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
   <img src="./profile/stats.svg" alt="GitHub Stats" width="420" />
