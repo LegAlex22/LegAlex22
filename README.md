@@ -40,11 +40,13 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 <img src="./assets/hyperkitty.gif" width="26" alt="Cat 1"/>
 <img src="./assets/cat-roll.gif" width="26" alt="Cat 2" />
 
-
-
 ---
 
 # <img src="./assets/ScriptCoding.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-skills.svg?v=2" alt="Skill">&nbsp;
+<img src="./assets/ScriptCoding-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-light.svg#gh-light-mode-only" alt="Skills" width="130">
+<img src="./assets/ScriptCoding-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;<img src="./assets/glow-skills-dark.svg#gh-dark-mode-only" alt="Skills" width="130">
+
+
 
 ### ⚡ Core & Languages
 ![Java](https://img.shields.io/badge/java-%23ED1D24.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
