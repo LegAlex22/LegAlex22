@@ -168,6 +168,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 Last Edited on: 10/09/2026
 
+<!--src="./assets/footer-line.svg"-->
 <p align="center">
-  <img src="./assets/footer-line.svg" alt="Footer Waving Line" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer Waving Line" width="100%" />
 </p>
