@@ -144,12 +144,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/garden-footer-night.svg" />
-    <img src="./profile/garden-footer.svg" width="900" alt="Garden Footer with Cat" />
-  </picture>
-</div>
 
 
 <p align="center">
