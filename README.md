@@ -124,7 +124,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-# 🏆 <img src="./assets/glow-github-trophies.svg?v=2" alt="GitHub Trophies">
+# <img src="./assets/Trophy.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-github-trophies.svg?v=2" alt="GitHub Trophies">
 
 <p align="center">
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
@@ -132,7 +132,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-# 🕹️ <img src="./assets/glow-my-contribution-graph.svg?v=2" alt="My Contribution Graph">
+# <img src="./assets/Game.gif" width="32" alt="Icono Skills" />&nbsp;<img src="./assets/glow-my-contribution-graph.svg?v=2" alt="My Contribution Graph">
 
 <p align="center">
   <picture>
