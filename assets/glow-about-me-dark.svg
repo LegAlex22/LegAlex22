@@ -1,7 +1,6 @@
-<svg width="145" height="28" viewBox="0 0 145 28" xmlns="http://www.w3.org/2000/svg">
+<svg width="115" height="28" viewBox="0 0 115 28" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- x="0" y="-30%" evita que la sombra mueva el texto hacia la derecha -->
-    <filter id="glow" x="0" y="-30%" width="130%" height="160%">
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
       <feGaussianBlur stdDeviation="0" result="blur">
         <animate attributeName="stdDeviation" values="0;4;0" dur="3s" repeatCount="indefinite"/>
       </feGaussianBlur>
@@ -11,7 +10,6 @@
       </feMerge>
     </filter>
   </defs>
-  <!-- Texto centrado con espacio suficiente para el resplandor -->
   <text x="0" y="22" text-anchor="start" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff" filter="url(#glow)">
     About Me
   </text>
