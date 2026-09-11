@@ -14,6 +14,9 @@
 &nbsp;&nbsp;
 [![gmail](assets/social-icons/gmail-light.svg)](mailto:alex.bellon2005@gmail.com#gh-light-mode-only)
 [![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![buymeacoffe](assets/social-icons/buymeacoffee-light.svg)](https://tiktok.com/@legalex22#gh-light-mode-only)
+[![buymeacoffe](assets/social-icons/buymeacoffee-dark.svg)](https://tiktok.com/@legalex22#gh-dark-mode-only)
 
 <img src="./assets/glow-about-me.svg?v=2" alt="About Me">&nbsp;<img src="./assets/WavingHand.gif" width="35" alt="Waving Hand" />
 --
