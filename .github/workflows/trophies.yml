@@ -21,15 +21,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: LegAlex22
           OUTPUT_PATH: profile/trophies.svg
-          theme: tokyonight
+          theme: radical
           no-frame: "false"
           no-bg: "true"
           margin-w: "4"
-          column: 5
-          color-border: "ffa500"
-          color-title: "ffa500"
-          color-text: "ffeaa7"
-          color-icon: "ffa500"
 
       - name: Commit trophies card
         run: |
