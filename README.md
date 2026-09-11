@@ -1,3 +1,5 @@
+<p <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>
+
 <img src="https://i.imgur.com/Vbj9aBY.png">
 
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
@@ -151,8 +153,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 </p>
 
 	
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -160,13 +160,12 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 </p>
 
 <img src="./assets/divider-line.gif"  alt="Divider Line" />
-<p <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp; **Credit:** [Alejandro Palacios Vidales](https://github.com/LegAlex22/)
+
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
-Last Edited on: 10/09/2026
+
 
 <!--src="./assets/footer-line.svg"-->
 <p align="center">
