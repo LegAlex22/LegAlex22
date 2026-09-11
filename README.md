@@ -169,5 +169,5 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 Last Edited on: 10/09/2026
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="./assets/footer-line.svg" alt="Footer Waving Line" width="100%" />
 </p>
