@@ -145,7 +145,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <source media="(prefers-color-scheme: light)" srcset="./assets/glow-github-stats-light.svg">
   <img src="./assets/glow-github-stats-light.svg" alt="Github Stats" height="28" style="vertical-align: middle;">
 </picture>
-
+<br>
+<br>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
   <img src="./profile/stats.svg" alt="GitHub Stats" width="420" />
   <img src="./profile/streak.svg" alt="GitHub Streak" width="420" />
@@ -165,7 +166,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <source media="(prefers-color-scheme: light)" srcset="./assets/glow-contribution-graph-light.svg">
   <img src="./assets/glow-contribution-graph-light.svg" alt="Contribution Graph" height="28" style="vertical-align: middle;">
 </picture>
-
+<br>
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegAlex22/LegAlex22/output/pacman-contribution-graph-dark.svg">
@@ -185,7 +187,8 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <source media="(prefers-color-scheme: light)" srcset="./assets/glow-github-trophies-light.svg">
   <img src="./assets/glow-github-trophies-light.svg" alt="GitHub Trophies" height="28" style="vertical-align: middle;">
 </picture>
-
+<br>
+<br>
 <p align="center">
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
