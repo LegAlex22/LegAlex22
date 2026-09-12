@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Vbj9aBY.png">
+<img src="https://imgur.com/NCPRTAE.png" alt="LegAlex Banner">
 
 [![linkedin](assets/social-icons/linkedin-light.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-light-mode-only)
 [![linkedin](assets/social-icons/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-palacios-vidales/#gh-dark-mode-only)
