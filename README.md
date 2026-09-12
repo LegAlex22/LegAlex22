@@ -26,7 +26,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-about-me-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/glow-about-me-light.svg">
   <img src="./assets/glow-about-me-light.svg" alt="About Me" width="130">
-</picture>&nbsp;<picture>
+</picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/WavingHand-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/WavingHand-light.gif">
   <img src="./assets/WavingHand-light.gif" alt="Waving Hand" width="35">
@@ -53,7 +53,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ScriptCoding-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/ScriptCoding-light.gif">
   <img src="./assets/ScriptCoding-light.gif" alt="ScriptCoding" width="35">
-</picture>&nbsp;&nbsp;<picture>
+</picture>&nbsp;<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-skills-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/glow-skills-light.svg">
   <img src="./assets/glow-skills-light.svg" alt="Skills" height="28" style="vertical-align: middle;">
@@ -140,7 +140,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <source media="(prefers-color-scheme: dark)" srcset="./assets/AnalizeStats-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/AnalizeStats-light.gif">
   <img src="./assets/AnalizeStats-light.gif" alt="ScriptCoding" width="35">
-</picture>&nbsp;&nbsp;<picture>
+</picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-github-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/glow-github-stats-light.svg">
   <img src="./assets/glow-github-stats-light.svg" alt="Github Stats" height="28" style="vertical-align: middle;">
@@ -182,7 +182,7 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <source media="(prefers-color-scheme: dark)" srcset="./assets/Trophy-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/Trophy-light.gif">
   <img src="./assets/Trophy-light.gif" alt="Trophy" width="35">
-</picture>&nbsp;&nbsp;<picture>
+</picture>&nbsp;<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-github-trophies-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/glow-github-trophies-light.svg">
   <img src="./assets/glow-github-trophies-light.svg" alt="GitHub Trophies" height="28" style="vertical-align: middle;">
