@@ -156,8 +156,15 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<img src="./assets/Game-dark.gif#gh-dark-mode-only" width="35" alt="Game" />&nbsp;<img src="./assets/glow-contribution-graph-dark.svg#gh-dark-mode-only" alt="Contribution Graph" height="28" style="vertical-align: middle;">
-<img src="./assets/Game-light.gif#gh-light-mode-only" width="35" alt="Game" />&nbsp;<img src="./assets/glow-contribution-graph-light.svg#gh-light-mode-only" alt="Contribution Graph" height="28" style="vertical-align: middle;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Game-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/Game-light.gif">
+  <img src="./assets/Game-light.gif" alt="Game" width="35">
+</picture>&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/glow-contribution-graph-light.svg">
+  <img src="./assets/glow-contribution-graph-light.svg" alt="Contribution Graph" height="28" style="vertical-align: middle;">
+</picture>
 
 <p align="center">
   <picture>
@@ -169,8 +176,15 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<img src="./assets/Trophy-dark.gif#gh-dark-mode-only" width="35" alt="Trophy" />&nbsp;&nbsp;<img src="./assets/glow-github-trophies-dark.svg#gh-dark-mode-only" alt="GitHub Trophies" height="28" style="vertical-align: middle;">
-<img src="./assets/Trophy-light.gif#gh-light-mode-only" width="35" alt="Trophy" />&nbsp;&nbsp;<img src="./assets/glow-github-trophies-light.svg#gh-light-mode-only" alt="GitHub Trophies" height="28" style="vertical-align: middle;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Trophy-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/Trophy-light.gif">
+  <img src="./assets/Trophy-light.gif" alt="Trophy" width="35">
+</picture>&nbsp;&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-github-trophies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/glow-github-trophies-light.svg">
+  <img src="./assets/glow-github-trophies-light.svg" alt="GitHub Trophies" height="28" style="vertical-align: middle;">
+</picture>
 
 <p align="center">
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
