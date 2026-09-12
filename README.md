@@ -21,13 +21,16 @@
 <img src="./assets/glow-about-me-dark.svg#gh-dark-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-dark.gif#gh-dark-mode-only" width="35" alt="Waving Hand" />
 <img src="./assets/glow-about-me-light.svg#gh-light-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-light.gif#gh-light-mode-only" width="35" alt="Waving Hand"/>
 -->
-<div style="margin-bottom: -10px;">
-<img src="./assets/glow-about-me-light.svg#gh-light-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-light.gif#gh-light-mode-only" width="35" alt="Waving Hand"/>
-</div>
 
-<div style="margin-top: -10px;">
-<img src="./assets/glow-about-me-dark.svg#gh-dark-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-dark.gif#gh-dark-mode-only" width="35" alt="Waving Hand" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-about-me-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/glow-about-me-light.svg">
+  <img src="./assets/glow-about-me-light.svg" alt="About Me" width="130">
+</picture>&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/WavingHand-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/WavingHand-light.gif">
+  <img src="./assets/WavingHand-light.gif" alt="Waving Hand" width="35">
+</picture>
 
 Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
 Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño y estrategia, buscando siempre aprender y construir soluciones prácticas desde la experiencia real.
