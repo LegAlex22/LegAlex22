@@ -49,8 +49,15 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<img src="./assets/ScriptCoding-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;&nbsp;<img src="./assets/glow-skills-dark.svg#gh-dark-mode-only" alt="Skills" height="28" style="vertical-align: middle;">
-<img src="./assets/ScriptCoding-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;&nbsp;<img src="./assets/glow-skills-light.svg#gh-light-mode-only" alt="Skills" height="28" style="vertical-align: middle;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ScriptCoding-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ScriptCoding-light.gif">
+  <img src="./assets/ScriptCoding-light.gif" alt="ScriptCoding" width="35">
+</picture>&nbsp;&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-skills-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/glow-skills-light.svg">
+  <img src="./assets/glow-skills-light.svg" alt="Skills" height="28" style="vertical-align: middle;">
+</picture>
 
 ### ⚡ Core & Languages
 ![Java](https://img.shields.io/badge/java-%23ED1D24.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -129,8 +136,15 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 ---
 
-<img src="./assets/AnalizeStats-dark.gif#gh-dark-mode-only" width="35" alt="ScriptCoding" />&nbsp;&nbsp;<img src="./assets/glow-github-stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="28" style="vertical-align: middle;">
-<img src="./assets/AnalizeStats-light.gif#gh-light-mode-only" width="35" alt="ScriptCoding" />&nbsp;&nbsp;<img src="./assets/glow-github-stats-light.svg#gh-light-mode-only" alt="Github Stats" height="28" style="vertical-align: middle;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/AnalizeStats-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/AnalizeStats-light.gif">
+  <img src="./assets/AnalizeStats-light.gif" alt="ScriptCoding" width="35">
+</picture>&nbsp;&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/glow-github-stats-light.svg">
+  <img src="./assets/glow-github-stats-light.svg" alt="Github Stats" height="28" style="vertical-align: middle;">
+</picture>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
   <img src="./profile/stats.svg" alt="GitHub Stats" width="420" />
