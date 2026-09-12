@@ -17,10 +17,6 @@
 &nbsp;&nbsp;
 [![gmail](assets/social-icons/gmail-light.svg)](mailto:alex.bellon2005@gmail.com#gh-light-mode-only)
 [![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
-<!--
-<img src="./assets/glow-about-me-dark.svg#gh-dark-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-dark.gif#gh-dark-mode-only" width="35" alt="Waving Hand" />
-<img src="./assets/glow-about-me-light.svg#gh-light-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-light.gif#gh-light-mode-only" width="35" alt="Waving Hand"/>
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/glow-about-me-dark.svg">
@@ -193,9 +189,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
 
-<!--src="./assets/footer-line.svg"-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer Waving Line" width="100%" />
 </p>
-
-<!-- <p <a href="https://github.com/legalex22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/legalex22?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" alt="GitHub Followers" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Stars&labelColor=1c1917&maxAge=2592000" alt="GitHub Stars" /></a> <a href="https://github.com/LegAlex22?tab=repositories" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/watchers/LegAlex22/LegAlex22?logo=github&style=for-the-badge&color=000000&label=Watchers&labelColor=1c1917&maxAge=2592000" alt="GitHub Watchers" /></a></p>  -->
