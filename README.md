@@ -17,9 +17,17 @@
 &nbsp;&nbsp;
 [![gmail](assets/social-icons/gmail-light.svg)](mailto:alex.bellon2005@gmail.com#gh-light-mode-only)
 [![gmail](assets/social-icons/gmail-dark.svg)](mailto:alex.bellon2005@gmail.com#gh-dark-mode-only)
-
+<!--
 <img src="./assets/glow-about-me-dark.svg#gh-dark-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-dark.gif#gh-dark-mode-only" width="35" alt="Waving Hand" />
 <img src="./assets/glow-about-me-light.svg#gh-light-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-light.gif#gh-light-mode-only" width="35" alt="Waving Hand"/>
+-->
+<div>
+<img src="./assets/glow-about-me-light.svg#gh-light-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-light.gif#gh-light-mode-only" width="35" alt="Waving Hand"/>
+</div>
+
+<div>
+<img src="./assets/glow-about-me-dark.svg#gh-dark-mode-only" alt="About Me" width="130">&nbsp;<img src="./assets/WavingHand-dark.gif#gh-dark-mode-only" width="35" alt="Waving Hand" />
+</div>
 
 Soy desarrollador Full Stack y creador digital en formación, iniciando mi carrera como estudiante en Ingeniería Informática en la UdL.
 Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño y estrategia, buscando siempre aprender y construir soluciones prácticas desde la experiencia real.
@@ -146,7 +154,6 @@ Disfruto creando proyectos digitales funcionales, combinando desarrollo, diseño
 
 <img src="./assets/Trophy-dark.gif#gh-dark-mode-only" width="35" alt="Trophy" />&nbsp;&nbsp;<img src="./assets/glow-github-trophies-dark.svg#gh-dark-mode-only" alt="GitHub Trophies" height="28" style="vertical-align: middle;">
 <img src="./assets/Trophy-light.gif#gh-light-mode-only" width="35" alt="Trophy" />&nbsp;&nbsp;<img src="./assets/glow-github-trophies-light.svg#gh-light-mode-only" alt="GitHub Trophies" height="28" style="vertical-align: middle;">
-
 
 <p align="center">
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
